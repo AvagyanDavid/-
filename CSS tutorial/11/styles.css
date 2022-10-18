@@ -1,23 +1,6 @@
-#first {
- color: #f00;
- background-color: #000;
-}
-
-#second {
- color: #fff;
- background: #0f0;
-}
-
-#three {
- color: #00f;
- background: #f15025;
-}
-
-#four {
- color: #f234ad;
- background: #222;
-}
-
-body {
- background: rgba(10, 200, 200, 0.56);
+h1{
+ font-size: 60px;
+ width: 200px;
+ height: 300px;
+ background: blue;
 }
