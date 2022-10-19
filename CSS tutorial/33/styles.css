@@ -1,0 +1,18 @@
+/* ::first-line ::first-letter */
+p::first-line{
+ font-weight: bold;
+}
+p::first-line{
+ font-weight: bold;
+}
+/* :hover */
+ p:hover{
+  color: red;
+ }
+ .header:hover{
+  background: blue;
+  color: white;
+ }
+ a:hover{
+  text-decoration: none;
+ }
